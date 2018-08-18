@@ -4,12 +4,11 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Hello World ! My name is Om ! Or you can call me Amos which is my biblical name. I am an aspiring Web Debeloper and I am currntly learning Python and Flask in CTC. The Class is sponsered by Dr. Siva adn taught by Imdad. I am excited to be in this course and look forward to seeing and workd real world projects!
 
 ### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+I love coding in my freetime. Beside coding, I also love reading books and chill.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[email@domain.com](mailto:hungom@github.com)
