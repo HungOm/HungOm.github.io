@@ -3,15 +3,17 @@ layout: post
 title: Python Course for CTC
 ---
 
+In CTC, there is a python programming course sponsored by Dr.Siva for 6 months. In this course, we are learning the following things.
+
 ### Pythong Basics
 
-*Print("Hello world")
-*Variables
-*Arithematic Operations
-*Descision Making
-*Loops
-*Fucntions
-*Classes
+* Print("Hello world")
+* Variables
+* Arithematic Operations
+* Descision Making
+* Loops
+* Fucntions
+* Classes
 
 ### Flask
 
