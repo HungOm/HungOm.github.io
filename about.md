@@ -11,4 +11,4 @@ I love coding in my freetime. Beside coding, I also love reading books and chill
 
 ### Contact me
 
-[email@domain.com](mailto:hungom@github.com)
+[hung@github.com](mailto:hungom@github.com)
