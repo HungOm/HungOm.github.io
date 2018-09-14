@@ -1,6 +1,6 @@
 ---
 layout: post
-title: self Reliance 
+title: self Reliance
 ---
 
 ### Author : Ralph Waldo Emerson
