@@ -1,6 +1,6 @@
 ---
 layout: post
-title: self Reliance 
+title: Self Reliance 
 permalink: /readnote/
 ---
 
