@@ -9,7 +9,7 @@ name: Om
 description: Om's personal blog
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: images/om.jpg
+avatar: [<img src="{{ site.baseurl }}/images/om.jpg" alt="Om's profile picture" style="width: 400px;"/>]({{ site.baseurl }}/)
 
 #
 # Flags below are optional
