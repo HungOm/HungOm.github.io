@@ -1,7 +1,7 @@
 ---
 layout: post
 title: self Reliance 
-permalink: /readnotes/
+permalink: /readnote/
 ---
 
 ### Author : Ralph Waldo Emerson
